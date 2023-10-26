@@ -7,7 +7,7 @@
     use MercadoPago\Exceptions\MPApiException;
     use MercadoPago\MercadoPagoConfig;
 
-    MercadoPagoConfig::setAccessToken("APP_USR-5042467939743218-102013-749e543de5c41d11a5d73c6ccb95a035-1518667378");
+    MercadoPagoConfig::setAccessToken("<access token>");
     
 
     $data = [];
@@ -25,7 +25,7 @@
         $_SESSION['tipo'] = $tipo;
 
         $api = new \PayPal\Rest\ApiContext(
-            new \PayPal\Auth\OAuthTokenCredential("ATBgol0q0v7ayq1E9YkW4zUSBy-Vbiy-DZrx7IRoHJDlgGVSTOYjk7hQvxGfy_NS3-KZYHkiJ9l4x9-V","EOlad5dw-DEl-QvtlFFLxwR6bz6NlIHoNk8B07JNc6f3Yijnt5TfHdtlgHvF_jQGeN0uBTmUtvJu7953"),
+            new \PayPal\Auth\OAuthTokenCredential("public-key","private-key"),
         );
 
         $payer = new \PayPal\Api\Payer();
