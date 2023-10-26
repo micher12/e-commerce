@@ -14,7 +14,7 @@
         if(isset($_COOKIE['pendente'])){
             Painel::alert("alert","Pagemento em aberto!");
 
-            $accessToken = 'TEST-5042467939743218-102013-37d9548b31c7c3d8b612e6c127552500-1518667378';
+            $accessToken = '<access token>';
 
             $id = explode('/',$_COOKIE['pendente'])[5];
 
