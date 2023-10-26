@@ -11,7 +11,7 @@
     use MercadoPago\MercadoPagoConfig;
 
 
-    MercadoPagoConfig::setAccessToken("TEST-5042467939743218-102013-37d9548b31c7c3d8b612e6c127552500-1518667378");
+    MercadoPagoConfig::setAccessToken("<access token>");
 
     $data = [];
 
@@ -56,7 +56,7 @@
 
                 //pegando resposta ===========
                 
-                $accessToken = 'TEST-5042467939743218-102013-37d9548b31c7c3d8b612e6c127552500-1518667378';
+                $accessToken = '<access token>';
                 $paymentId = $payment->id;
 
                 $ch = curl_init();
