@@ -4,61 +4,82 @@
 
 ![Captura de tela 2023-10-28 094832](https://github.com/micher12/e-commerce/assets/84326814/db2fcf11-a571-4fce-b1d3-ec5c1dbcb80d)
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/acade064-b84c-4913-9348-4e4a7f26a207)
+![Captura de tela 2023-10-28 094936](https://github.com/micher12/e-commerce/assets/84326814/79f71abc-ff6d-4e98-9eb1-a77132c44c65)
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/98cad7ed-ec55-4801-9bb8-418f637d8522)
+![Captura de tela 2023-10-28 095020](https://github.com/micher12/e-commerce/assets/84326814/ac767e1b-f13b-46c9-b4a3-48ca8d92adf9)
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/fa2381f3-5625-4ac3-a727-c4590b7c2504)
+![Captura de tela 2023-10-28 095113](https://github.com/micher12/e-commerce/assets/84326814/3b626419-cb05-4c21-9957-b3f35ee8edc2)
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/efd716cd-09d1-4a84-94c1-dcdc8b1304cc)
+![Captura de tela 2023-10-28 095147](https://github.com/micher12/e-commerce/assets/84326814/d69953a9-f3fe-4903-9284-d7e1ebd20f1b)
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/b1f3083e-9ca3-4ab6-9ddf-62a6505a472c)
+![Captura de tela 2023-10-28 095217](https://github.com/micher12/e-commerce/assets/84326814/33506c02-5e6e-4963-bb1e-6877a169fb86)
+
+
+
 
 <h2>Metodos de pagamento: </h2>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/fb1718a6-d249-4d0e-85c4-301ec66bb86c)
+![Captura de tela 2023-10-28 095325](https://github.com/micher12/e-commerce/assets/84326814/2c3f7425-cffb-4a01-aa90-4d89c6cc2116)
+
+
+
 
 <h3>PIX</h3>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/9b29621d-3b0a-4eda-999d-be83a4559ab1)
+![Captura de tela 2023-10-28 095724](https://github.com/micher12/e-commerce/assets/84326814/227e3714-b9a9-43a1-8e73-95cfc5c81319)
+
+
+
+
 
 <h3>PAYPAL</h3>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/614913c5-222a-435b-ba51-1d044566a231)
+![Captura de tela 2023-10-28 095749](https://github.com/micher12/e-commerce/assets/84326814/f2a5122e-2e9c-499c-b68a-64f4c034c221)
+
+
+
+
 
 <h3>Cartão de Crédito</h3>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/6333857f-4f7d-4fae-8ecf-cd8475714dfa)
+![Captura de tela 2023-10-28 095834](https://github.com/micher12/e-commerce/assets/84326814/5ee643ba-4f39-4287-8f31-36f91f49d1b1)
+
+
+
+
 
 <h2>Login - Painel de Controle</h2>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/c142eb00-3c35-41f2-9089-bf40f0944b2d)
+![Captura de tela 2023-10-28 095941](https://github.com/micher12/e-commerce/assets/84326814/71a2f1db-e35a-470b-abb1-e584b9a838b0)
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/5199aa74-29a7-420c-a4bd-3eea29214fda)
+![Captura de tela 2023-10-28 095928](https://github.com/micher12/e-commerce/assets/84326814/fa74b9bf-bfc9-415e-a742-7c5f4504d654)
+
+
+
 
 <h3>Painel de controle: </h3>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/43cd5eb8-4cc5-42da-a16b-cfa42e53b2a3)
+![Captura de tela 2023-10-28 100012](https://github.com/micher12/e-commerce/assets/84326814/34fa6706-2b18-4485-858a-864b84d7eb0b)
+
 
 <h3>opções de cadastro dos produtos / edição ... </h3>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/96af2de6-a3cf-4680-bef2-2441b47697ae)
+![Captura de tela 2023-10-28 100055](https://github.com/micher12/e-commerce/assets/84326814/c9e04897-4f42-46b3-aa36-22029a9383bf)
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/14a7626c-7785-4a5b-9df8-c6e561655efb)
+![Captura de tela 2023-10-28 100125](https://github.com/micher12/e-commerce/assets/84326814/a8bfd5da-935b-4d3f-ae26-0eeed582ecd4)
+
 
 <h3>Editar imagens - pode adicionar, excluir, definir como capa do produto</h3>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/655c5171-6247-4595-946f-3aa91751fa05)
+![Captura de tela 2023-10-28 100153](https://github.com/micher12/e-commerce/assets/84326814/88f52c35-5c08-4fb5-bc15-11231eea162c)
+
 
 <h2>Sessão demonstrativa para imóveis</h2>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/d7e74d0e-9438-4376-9f34-a02fefca8ed6)
-
-![image](https://github.com/micher12/e-commerce/assets/84326814/df061ed7-f891-4575-bca7-2947d981da14)
-
-![image](https://github.com/micher12/e-commerce/assets/84326814/4157f7c6-7c6a-40c1-b046-28711bf10233)
-
-![image](https://github.com/micher12/e-commerce/assets/84326814/cf417e32-216f-4a8c-97c3-1009a0afdfe1)
+![Captura de tela 2023-10-28 100344](https://github.com/micher12/e-commerce/assets/84326814/e2781dd0-a68c-40ca-94c2-70560a5711bf)
+![Captura de tela 2023-10-28 100327](https://github.com/micher12/e-commerce/assets/84326814/7da80c0a-175a-48f0-a5fc-c1625ff3da5d)
+![Captura de tela 2023-10-28 100308](https://github.com/micher12/e-commerce/assets/84326814/6cbd5171-24bf-4a01-a40a-5132eff263c4)
+![Captura de tela 2023-10-28 100241](https://github.com/micher12/e-commerce/assets/84326814/872a07dd-4e8d-4df4-9a51-84ef065bf39b)
 
 
 
