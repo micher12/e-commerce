@@ -2,7 +2,7 @@
 
 <h2>Web Site: </h2>
 
-![image](https://github.com/micher12/e-commerce/assets/84326814/255310ec-ad2b-4dfb-9ac1-3abb6bb213ea)
+![Captura de tela 2023-10-28 094832](https://github.com/micher12/e-commerce/assets/84326814/db2fcf11-a571-4fce-b1d3-ec5c1dbcb80d)
 
 ![image](https://github.com/micher12/e-commerce/assets/84326814/acade064-b84c-4913-9348-4e4a7f26a207)
 
