@@ -1,12 +1,12 @@
 # E-COMMERCE 🛒
-Um sebsite dinâmico para para cadastrar produtos e realizar vendas virtualmente.
+Um website dinâmico para cadastrar produtos e realizar vendas virtualmente.
 
 <br/>
 
 ![Captura de tela 2023-10-28 094832](https://github.com/micher12/e-commerce/assets/84326814/db2fcf11-a571-4fce-b1d3-ec5c1dbcb80d)
 
 
-##  📋 Catálogo recupeado dinâmicamente
+##  📋 Catálogo recuperado dinamicamente
 Os produtos cadastrados pelo administrador são mostrados na sessão de produtos.
 
 <br/>
@@ -52,9 +52,3 @@ Aqui é onde será possível realizar o cadastro e edição dos produtos.
 - HTML
 - MySql
 - JavaScript(Jquery)
-
-
-
-
-
-
